@@ -1,0 +1,7 @@
+Selamın Aleyküm Arkadaşlar Ben Woldan Bugün SharpMonoINJ nasıl kullanılır onu anlatıcam büyük ihtimalle bunu tenacity.glitch.me sitemden gördünüz ve öyle geldiniz. herneyse ilk olarak rardaki tüm dosyaları masaüstüne atıyoruz klasör açıp atın karışmasın herneyse beyler daha sonra sm_gui.exe var onu açın evet diyin izin falan isticek rat falan değil unknowncheats ta var zaten herneyse daha sonrada moruk açtıktan sonra orda Reload diye inject yerinin orda refresh yazısı var oraya tıklayın 1 kere ondan sonra zaten oyununuz gelecek oraya TheForest diye daha sonra onun aşasında benim verdiğim Forest.dll dosyasını seçin ve aşağıda bazı anahtarlar isticek onlarda şunlar galiba ( Class Name : Loader | Method Name Load ) moruk büyük küçük harflere dikkat edin hiç birşey de bilmiyorsanız youtuıbeye sharp mono injector yazın orda videoları var dll injectleme öyle de yapabilirsiniz iyi oyunlar seviliyorsunuz 
+
+
+
+𝓕𝓾𝓻 𝓓𝓲𝓮 𝓕𝓸𝓻 #𝓣𝓮𝓷𝓪𝓬𝓲𝓽𝔂 :)
+Good Luck 
+🇧​🇾​ 🇼​🇴​🇱​🇩​🇦​🇳​
